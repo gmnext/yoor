@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993051133201",
+    "project_id": "yoor-7fa7b",
+    "storage_bucket": "yoor-7fa7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993051133201:android:5a43dba875c1c4c9b938b0",
+        "android_client_info": {
+          "package_name": "com.yoor.yoorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993051133201-ai17iqodc4rg5dfghsp9c6sg0673sfl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrkON47Q3s3IiRZ_omJoiyLs_G82OXasI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993051133201-ai17iqodc4rg5dfghsp9c6sg0673sfl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
